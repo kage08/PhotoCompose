@@ -1,0 +1,9 @@
+streamlit==1.32.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+onnxruntime==1.17.0
+insightface==0.7.3
+torch==2.2.0
+torchvision==0.17.0
+dlib==19.24.2
+Pillow==10.2.0 
