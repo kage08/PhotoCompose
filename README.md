@@ -31,4 +31,6 @@ For best results:
 - Use clear, well-lit photos
 - Ensure faces are clearly visible
 - Photos should be front-facing
-- Avoid extreme angles 
+- Avoid extreme angles
+
+**Note:** 100% of this repo is *vibe-coded* with Cursor.
